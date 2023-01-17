@@ -3,7 +3,11 @@
 You can augment your videos for training various detections models.
 
 
-## Screenshots
+## Demos
 
-![App Screenshot](Gifs/original.gif)
+
+<div align="center">
+  <img src="./Gifs/original.gif" width="275px" />
+
+</div>
 
