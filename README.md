@@ -9,7 +9,7 @@ You can augment your videos for training various detections models.
 <div align="center">
   <img src="./Gifs/original.gif" width="275px" />
   <img src="./Gifs/crab_blurred.gif" width="275px" />
-  <img src="./Gifs/crab_ACWrotated" width="275px" />
+  <img src="./Gifs/crab_ACWrotated.gif" width="275px" />
   <img src="./Gifs/crab_CWrotated.gif" width="275px" />
   
   <img src="./Gifs/crab_0.5brightness.gif" width="275px" />
