@@ -10,9 +10,7 @@ First video is the original.
 <div align="left">
   
   <div align="center">
-First .
-</div>
-<div align="center">
+
   
   <img src="./Gifs/original.gif" width="275px" />
   <img src="./Gifs/crab_blurred.gif" width="275px" />
@@ -30,6 +28,8 @@ First .
   <img src="./Gifs/crab_zoomin.gif" width="275px" />
   <img src="./Gifs/crab_zoomout.gif" width="275px" />
   
+</div>
+<div align="center">
   
 
 
