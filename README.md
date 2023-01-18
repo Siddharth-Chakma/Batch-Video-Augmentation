@@ -4,10 +4,11 @@ You can augment your videos for training various detections models.
 
 
 ## Demos
-<div align="left">
+
 First video is the original.
-</div>
-<div align="left">
+
+
+
   
   <div align="center">
 
