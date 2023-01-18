@@ -8,7 +8,21 @@ You can augment your videos for training various detections models.
 
 <div align="center">
   <img src="./Gifs/original.gif" width="275px" />
+  <img src="./Gifs/crab_blurred.gif" width="275px" />
+  <img src="./Gifs/crab_ACWrotated" width="275px" />
+  <img src="./Gifs/crab_CWrotated.gif" width="275px" />
+  
   <img src="./Gifs/crab_0.5brightness.gif" width="275px" />
+  
+  
+  
+  <img src="./Gifs/crab_hflip.gif" width="275px" />
+  <img src="./Gifs/crab_hshift.gif" width="275px" />
+  <img src="./Gifs/crab_hzoom.gif" width="275px" />
+  <img src="./Gifs/crab_m0.5brightness.gif" width="275px" />
+  <img src="./Gifs/crab_vertical_shift.gif" width="275px" />
+  <img src="./Gifs/crab_zoomin.gif" width="275px" />
+  <img src="./Gifs/rab_zoomout.gif" width="275px" />
   
   
 
