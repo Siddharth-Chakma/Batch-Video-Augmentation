@@ -11,3 +11,10 @@ You can augment your videos for training various detections models.
 </div>
 <div align="center">
 
+
+## Reqirements
+
+Required Library Packages
+* OpenCV
+* NumPy
+
