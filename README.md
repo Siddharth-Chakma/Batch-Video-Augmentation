@@ -4,10 +4,10 @@ You can augment your videos for training various detections models.
 
 
 ## Demos
-<div align="center">
+<div align="left">
 First video is the original.
 </div>
-<div align="center">
+<div align="left">
   
   <img src="./Gifs/original.gif" width="275px" />
   <img src="./Gifs/crab_blurred.gif" width="275px" />
