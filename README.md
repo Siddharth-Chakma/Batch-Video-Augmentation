@@ -22,7 +22,7 @@ You can augment your videos for training various detections models.
   
   <img src="./Gifs/crab_vertical_shift.gif" width="275px" />
   <img src="./Gifs/crab_zoomin.gif" width="275px" />
-  <img src="./Gifs/rab_zoomout.gif" width="275px" />
+  <img src="./Gifs/crab_zoomout.gif" width="275px" />
   
   
 
