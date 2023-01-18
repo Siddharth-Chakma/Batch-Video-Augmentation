@@ -10,7 +10,7 @@ First video is the original.
 
 
   
-  <div align="center">
+  
 
   
   <img src="./Gifs/original.gif" width="275px" />
@@ -29,8 +29,6 @@ First video is the original.
   <img src="./Gifs/crab_zoomin.gif" width="275px" />
   <img src="./Gifs/crab_zoomout.gif" width="275px" />
   
-</div>
-<div align="center">
   
 
 
