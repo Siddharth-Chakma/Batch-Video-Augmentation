@@ -9,6 +9,11 @@ First video is the original.
 </div>
 <div align="left">
   
+  <div align="center">
+First .
+</div>
+<div align="center">
+  
   <img src="./Gifs/original.gif" width="275px" />
   <img src="./Gifs/crab_blurred.gif" width="275px" />
   <img src="./Gifs/crab_hflip.gif" width="275px" />
