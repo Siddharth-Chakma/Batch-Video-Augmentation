@@ -9,7 +9,6 @@ You can augment your videos for training various detections models.
   <img src="./Gifs/all_augmentations.gif" width="800px" />
 
 </div>
-<div align="center">
 
 
 ## Reqirements
