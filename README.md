@@ -9,7 +9,8 @@ First video is the original.
 
 
 
-  
+  <div align="center">
+
   
 
   
@@ -31,5 +32,6 @@ First video is the original.
   
   
 
-
+</div>
+<div align="center">
 
