@@ -4,9 +4,9 @@ You can augment your videos for training various detections models.
 
 
 ## Demos
-
+<div align="center">
 First video is the original.
-
+</div>
 <div align="center">
   
   <img src="./Gifs/original.gif" width="275px" />
@@ -27,5 +27,5 @@ First video is the original.
   
   
 
-</div>
+
 
